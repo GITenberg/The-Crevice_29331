@@ -1,0 +1,45 @@
+_repo: The-Crevice_29331
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Grefé, Will
+    alias: Grefe, Will
+    gutenberg_agent_id: '9414'
+    url: http://www.gutenberg.org/2009/agents/9414
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ostrander, Isabel
+    aliases:
+    - Ostrander, Isabel Egenton
+    - Grant, Douglas
+    - Chipperfield, Robert Orr
+    - Fox, David
+    birthdate: 1883
+    deathdate: 1924
+    gutenberg_agent_id: '33851'
+    url: http://www.gutenberg.org/2009/agents/33851
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Ostrander
+  - agent_name: Burns, William J.
+    alias: Burns, William John
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '33850'
+    url: http://www.gutenberg.org/2009/agents/33850
+description: ''
+gutenberg_issued: '2009-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29331'
+  lccn: '15017132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: The Crevice
+url: http://www.gutenberg.org/ebooks/29331
